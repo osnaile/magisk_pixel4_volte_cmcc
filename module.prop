@@ -1,0 +1,7 @@
+id=EnablePixel4VolteForCMCC
+name=EnablePixel4VolteForCMCC
+version=v1.0
+versionCode=1
+author=fortunedemj, osnaile
+description=Pixel4 中国移动 开启 VOLTE.如果你有出国境的需求，请留意网络是否正常。
+minMagisk=1500
